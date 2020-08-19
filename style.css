@@ -2,10 +2,9 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #00CBCB;
   line-height: 1.8;
 }
-
 
 img{
   max-width: 100%;
@@ -22,7 +21,7 @@ img.frame{
 }
 
 .info{
-  background-color: #fff;
+  background-color: #ccc;
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -33,7 +32,7 @@ img.frame{
   padding-bottom: 10px;
   font-size: 1.2em;
   border-bottom: 1px solid #ddd;
-  color: #fff000;
+  color: #000000;
 }
 
 .btns{
